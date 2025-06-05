@@ -1,0 +1,5 @@
+%  area provided in mm^2 and elastic modulus in GPa
+%  membername    nearend   farend   elmod   area
+   1             1          2       200     40
+   2             2          3       200     40
+   3             4          2       200     40

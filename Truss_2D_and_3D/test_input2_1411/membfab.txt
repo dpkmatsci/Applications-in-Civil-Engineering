@@ -1,0 +1,4 @@
+% member  fabrerr(in m)
+    6           0.01
+ 
+   

@@ -1,0 +1,3 @@
+% for each corresponding joint direction cosine should be provided
+% joint alphx  betax  gammax  alphy betay  gammay
+   
