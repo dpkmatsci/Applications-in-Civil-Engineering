@@ -1,0 +1,5 @@
+% provide area in terms of mm^2 or in^2 and I in terms of mm^4 or in^4
+% provide elmod in terms of GPa or ksi
+% member nearend farend area I  elmod
+     1 1 2 12 600  29000
+     2 2 3 12 600  29000

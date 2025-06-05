@@ -1,0 +1,6 @@
+% uniform as well as triangular distributed load can be provided in this text
+% give udl either in terms of KN/m or k/ft
+% give initial and final position w.r.t near end
+% give type of load as local or global
+% type member  initial final  inudlload(x)  fnudlload(x)  inudlload(y)  fnudlload(y)  inudlmom   fnudlmom
+    global  1  0  4 0 0 -12 -12 0 0

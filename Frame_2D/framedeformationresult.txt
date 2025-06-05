@@ -1,0 +1,9 @@
+------------------JOINT DISPLACEMENTS--------------------
+       joint       xdisp(mm)       ydisp(mm) 
+          1              0.000              0.000
+         2             -0.007             -0.047
+         3              0.000              0.000
+------------------MEMBER ROTATIONS--------------------
+       member       nendrot(rad)       fendrot(rad) 
+          1          -0.000658           0.000424
+         2           0.000424          -0.000209

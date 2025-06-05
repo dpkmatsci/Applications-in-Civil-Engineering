@@ -1,0 +1,5 @@
+% provide angle as difference x and x'
+% joint xcrd ycrd  angle DOF
+    1 0 0 0 3
+    2 20 15 0 3
+    3 40 15 0 3

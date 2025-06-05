@@ -1,0 +1,6 @@
+% give concload in terms of KN or k and conc moment in terms of KNm or kft
+% give position of loads w.r.t near end 
+% write down direction type of load local for load in x' or y' direction
+% global for load in x or y direction
+% type   member  pos  concload(x)   concload(y)  concmom
+    global   2   2   -10  0  0        
