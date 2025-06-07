@@ -1,7 +1,7 @@
 ## Documentation
 
 The detailed principles of the calculation of response spectra can be found in any standard Structural Dynamics textbook. 
-Here, "Dynamics of Structures" by Patrick Paultre has been followed for coding purposes. 
+Here, [Dynamics of Structures](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118599792) by Patrick Paultre has been followed for coding purposes. 
 
 ## Deployment
 
@@ -16,10 +16,11 @@ To deploy this project, open MATLAB and run spectrum.m
 
    Provide the maximum time period in seconds.
 
-   Select required spectrum: Displacement, Pseudo-velocity or Pseudo-acceleration.
+   Select required spectrum: Displacement, Pseudo-velocity, or Pseudo-acceleration.
 
    Provide a function describing earthquake acceleration data or a filename.
-   Some files with earthquake acceleration data (elcentro.dat, elcentro_EW.dat, elcentro_NS.dat, elcentro_UP.dat) have been provided in the folder. 
+   Some files with earthquake acceleration data (elcentro.dat, elcentro_EW.dat, elcentro_NS.dat, elcentro_UP.dat)
+   have been provided in the folder. 
 
    Click on the "CREATE CURVE" button to generate the curve. 
 ```
