@@ -16,7 +16,7 @@ test_input3 : Example 14.7
 Create or edit input files using following instructions.
 
 ```bash
-   Provide these joint details in jntdt.xlsx. 
+   Provide these joint details in jntdet.txt. 
    joint no.  X-coordinate  Y-coordinate  Z-coordinate 
 
    For 2D problems, give z-coordinate and displacements as 0.
