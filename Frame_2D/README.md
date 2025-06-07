@@ -1,6 +1,6 @@
 ## Documentation
 
-The details of stiffness matrix method for Frame analysis can be found in chapter 16 of [Structural Analysis](https://www.candle.center/references/structural-analysis-eighth-edition-by-r.c.-hibbeler) by R.C. Hibbeler.
+The details of stiffness matrix method for Frame analysis can be found in chapter 16 of [Structural Analysis, 8th Edition](https://www.candle.center/references/structural-analysis-eighth-edition-by-r.c.-hibbeler) by R.C. Hibbeler.
 
 Here three different sample inputs have been provided which correspond to the exercise problems of Chapter 16. 
 
